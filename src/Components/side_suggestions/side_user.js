@@ -1,7 +1,7 @@
 import {Component} from "react";
 import {Card, Col, Container, Image, Row} from "react-bootstrap";
 
-import './side_suggestion.css'
+import './side.css'
 
 class SideUser extends Component {
     constructor(props) {
