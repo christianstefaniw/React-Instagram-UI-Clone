@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90dc3f76-cd88-4709-9c44-4383674024d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/search_input/search_input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side_bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side_user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/user_post/user_post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/user_post/user_post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/profiles/1/profile.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/fonts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -41,6 +54,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cpste\Desktop\Projects\react-instagram-clone\src\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cpste\Desktop\Projects\react-instagram-clone\src\assets\fonts" />
+      <recent name="C:\Users\cpste\Desktop\Projects\react-instagram-clone\src\Components" />
+      <recent name="C:\Users\cpste\Desktop\Projects\react-instagram-clone\src\Components\shared" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -68,6 +91,8 @@
       <workItem from="1611072443748" duration="3742000" />
       <workItem from="1611082978332" duration="4258000" />
       <workItem from="1611099792774" duration="13937000" />
+      <workItem from="1611116136913" duration="106000" />
+      <workItem from="1611161620037" duration="14288000" />
     </task>
     <servers />
   </component>

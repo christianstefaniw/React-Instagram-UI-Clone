@@ -1,0 +1,53 @@
+@font-face {
+    font-family: username;
+    src: url('../../assets/fonts/Poppins-SemiBold.ttf');
+}
+
+.post{
+    margin-bottom: 60px;
+}
+
+
+.username{
+    font-size: 13px;
+    position: relative;
+    margin: auto 15px;
+    font-family: username, sans-serif;
+}
+
+.post-profile-img{
+    width: 32px;
+    height: 32px;
+    border: 2px solid white;
+    border-radius: 400px;
+    object-fit: cover;
+}
+
+.border-gradient {
+    background-image: -webkit-linear-gradient(right top, #D02C86, #F99B4A);
+    border-radius: 400px;
+    padding: 2px;
+}
+
+.settings{
+    color: #6c757d;
+    margin: auto 0;
+}
+
+.header{
+    padding: 12px !important;
+}
+
+.action{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.username-in-caption{
+    font-family: username, serif;
+    font-size: 13px;
+}
+
+.caption-content{
+    font-size: 14px;
+}

@@ -1,7 +1,7 @@
 import {Component} from "react";
 import {Col, Container, Row} from "react-bootstrap";
 
-import profileImg from "../../assets/profiles/1/profile.jpg";
+import profileImg from "../../assets/profiles/1/profile.png";
 import SideSuggestion from "./side_suggestion";
 import SideUser from "./side_user";
 
@@ -9,7 +9,7 @@ import SideUser from "./side_user";
 class SideBar extends Component {
     render() {
         return (
-            <Container>
+            <Container style={{position: 'fixed'}}>
                 <SideUser img={profileImg} username="Christian.601" name="Christian"/>
                 <Row className="justify-content-between">
                     <p className="text-muted">Suggestions for you</p>

@@ -1,29 +1,36 @@
-import './App.css';
 import {Col, Container, Row} from "react-bootstrap";
+import {Component} from "react";
 
 import Header from "./Components/header/header";
-import UserPost from "./Components/user_post/user_post";
+import Posts from "./Components/user_post/posts";
 import SideBar from "./Components/side_suggestions/side_bar";
+import './Components/global.css'
+import './App.css';
 
 
-function App() {
-    return (
-        <div>
-            <Header/>
-            <Container id="posts">
-                <Row>
-                    <Col lg={8}>
-                        <UserPost/>
-                    </Col>
-                    <Col>
-                        <SideBar/>
-                    </Col>
+class App extends Component{
 
-                </Row>
-            </Container>
+    componentDidMount() {
+        document.title = "Instagram Clone"
+    }
 
-        </div>
-    );
+    render() {
+        return (
+            <div>
+                <Header/>
+                <Container>
+                    <Row id="posts">
+                        <Col lg={8}>
+                            <Posts/>
+                        </Col>
+                        <Col>
+                            <SideBar/>
+                        </Col>
+                    </Row>
+                </Container>
+            </div>
+        );
+    }
 }
 
 export default App;
