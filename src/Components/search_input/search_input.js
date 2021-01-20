@@ -1,12 +1,12 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 
-class SearchInput extends Component{
+class SearchInput extends Component {
 
     constructor(props) {
         super(props);
     }
 
-    render(){
+    render() {
         return (
             <input
                 type="text"
