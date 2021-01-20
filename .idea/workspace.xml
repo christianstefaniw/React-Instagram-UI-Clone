@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90dc3f76-cd88-4709-9c44-4383674024d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_suggestion.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_suggestions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side_suggestions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side_user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <updated>1611072441727</updated>
       <workItem from="1611072443748" duration="3742000" />
       <workItem from="1611082978332" duration="4258000" />
-      <workItem from="1611099792774" duration="13484000" />
+      <workItem from="1611099792774" duration="13937000" />
     </task>
     <servers />
   </component>

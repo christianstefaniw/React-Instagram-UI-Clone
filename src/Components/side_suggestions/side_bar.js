@@ -2,7 +2,7 @@ import {Component} from "react";
 import {Col, Container, Row} from "react-bootstrap";
 
 import profileImg from "../../assets/profiles/1/profile.jpg";
-import SideSuggestion from "./side_suggestions";
+import SideSuggestion from "./side_suggestion";
 import SideUser from "./side_user";
 
 
