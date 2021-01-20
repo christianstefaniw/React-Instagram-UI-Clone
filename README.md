@@ -1,6 +1,7 @@
 # Instagram Clone - Work in Progress
 
-[alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![current state](https://raw.githubusercontent.com/ChristianStefaniw/Instagram-Clone/master/imgs/current.png)
+#### Current state
 
 
 <br>
