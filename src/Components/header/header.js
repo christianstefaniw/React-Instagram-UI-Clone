@@ -29,7 +29,7 @@ class Header extends Component{
                             <Nav.Link href="#link"><img src={lightMessage} className="icon" alt="home"/></Nav.Link>
                             <Nav.Link href="#link"><img src={lightExplore} className="icon" alt="home"/></Nav.Link>
                             <Nav.Link href="#link"><img src={lightActivity} className="icon" alt="home"/></Nav.Link>
-                            <Nav.Link href="#link"><Image style={{border: '1px solid black', width: '22px', height: '22px'}} roundedCircle /></Nav.Link>
+                            <Nav.Link href="#link"><Image className="profile-img" roundedCircle /></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

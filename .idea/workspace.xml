@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90dc3f76-cd88-4709-9c44-4383674024d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <updated>1611072441727</updated>
       <workItem from="1611072443748" duration="3742000" />
       <workItem from="1611082978332" duration="4258000" />
-      <workItem from="1611099792774" duration="8261000" />
+      <workItem from="1611099792774" duration="8562000" />
     </task>
     <servers />
   </component>
