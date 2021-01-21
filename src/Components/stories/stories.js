@@ -6,6 +6,9 @@ import './stories.css'
 import ScrollMenu from "react-horizontal-scrolling-menu";
 import Story from "./story";
 import profileImg1 from '../../assets/profiles/2/profile.jpg'
+import profileImg2 from '../../assets/profiles/3/profile.png'
+import profileImg3 from '../../assets/profiles/4/profile.jpeg'
+
 
 class Stories extends Component {
 
@@ -17,13 +20,14 @@ class Stories extends Component {
                             data={
                                 [
                                     <Story img={profileImg1} user="squidward"/>,
+                                    <Story img={profileImg2} user="someone"/>,
+                                    <Story img={profileImg3} user="deadpool"/>,
                                     <Story img={profileImg1} user="squidward"/>,
+                                    <Story img={profileImg2} user="someone"/>,
+                                    <Story img={profileImg3} user="deadpool"/>,
                                     <Story img={profileImg1} user="squidward"/>,
-                                    <Story img={profileImg1} user="squidward"/>,
-                                    <Story img={profileImg1} user="squidward"/>,
-                                    <Story img={profileImg1} user="squidward"/>,
-                                    <Story img={profileImg1} user="squidward"/>,
-                                    <Story img={profileImg1} user="squidward"/>
+                                    <Story img={profileImg2} user="someone"/>,
+                                    <Story img={profileImg3} user="deadpool"/>
                                 ]
                             }
                 />
