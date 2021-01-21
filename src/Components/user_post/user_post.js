@@ -10,10 +10,6 @@ import save from '../../assets/icons/save.png'
 import './user_post.css'
 
 class UserPost extends Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <Card className="post">
@@ -30,7 +26,7 @@ class UserPost extends Component {
 
                 <Card.Img src={this.props.img} variant="top"/>
                 <Container>
-                    <Row className="d-flex">
+                    <Row className="d-flex actions">
                         <Image src={this.props.liked ? likeFilled : likeOutline} className="action" alt="like"/>
                         <Image src={comment} className="action" alt="comment"/>
                         <Image src={share} className="action" alt="share"/>
@@ -38,7 +34,6 @@ class UserPost extends Component {
                     </Row>
                 </Container>
                 <Card.Body>
-
                     <Card.Text>
                         <p><span className="username-in-caption">{this.props.username} </span> <span
                             className="caption-content">{this.props.caption}</span></p>

@@ -4,10 +4,6 @@ import {Col, Image, Row} from "react-bootstrap";
 import './side.css'
 
 class SideSuggestion extends Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <Row>

@@ -1,5 +1,5 @@
 import {Component} from "react";
-import {Col, Container, Row} from "react-bootstrap";
+import {Container, Row} from "react-bootstrap";
 
 import profileImg from "../../assets/profiles/1/profile.png";
 import SideSuggestion from "./side_suggestion";

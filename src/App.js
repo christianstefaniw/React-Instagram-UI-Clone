@@ -1,11 +1,11 @@
 import {Col, Container, Row} from "react-bootstrap";
 import {Component} from "react";
 
-import Header from "./Components/header/header";
-import Posts from "./Components/user_post/posts";
-import SideBar from "./Components/side_suggestions/side_bar";
-import Stories from './Components/stories/stories'
-import './Components/global.css'
+import Header from "./components/header/header";
+import Posts from "./components/user_post/posts";
+import SideBar from "./components/side_suggestions/side_bar";
+import Stories from './components/stories/stories'
+import './components/global.css'
 import './App.css';
 
 

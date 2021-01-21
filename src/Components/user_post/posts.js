@@ -12,10 +12,6 @@ import UserPost from "./user_post";
 
 
 class Posts extends Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <div>

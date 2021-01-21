@@ -1,5 +1,5 @@
 import {Component} from 'react'
-import {Container, Form, Image, Nav, Navbar} from "react-bootstrap";
+import {Container, Form, Nav, Navbar} from "react-bootstrap";
 
 
 import './header.css'

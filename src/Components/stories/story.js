@@ -4,11 +4,6 @@ import './stories.css'
 import {Col, Image} from "react-bootstrap";
 
 class Story extends Component {
-
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <Col>
