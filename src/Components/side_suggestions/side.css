@@ -2,18 +2,45 @@
     padding: 8px;
 }
 
-.side-profile-img{
+
+.side-profile-img-suggested{
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
+}
+.side-profile-img-user{
     height: 50px;
     width: 50px;
-    margin: auto;
     object-fit: cover;
 }
 
 .link-item{
     text-decoration: none !important;
     margin: auto;
+    font-size: 12px;
+    font-weight: 500;
+}
+.see-all-item{
+    font-size: 14px;
 }
 
-.p-item{
+.suggestions{
+    font-weight: 600;
+    font-size: 14px
+}
+
+.sub-title-suggested{
+    font-size: 11px;
+}
+.sub-title-user{
+    font-size: 13px;
+}
+
+.username-side{
+    font-family: username, sans-serif;
+    font-size: 12px;
     margin: auto;
+}
+
+#sidebar{
 }

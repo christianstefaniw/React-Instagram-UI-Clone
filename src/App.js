@@ -4,11 +4,12 @@ import {Component} from "react";
 import Header from "./Components/header/header";
 import Posts from "./Components/user_post/posts";
 import SideBar from "./Components/side_suggestions/side_bar";
+import Stories from './Components/stories/stories'
 import './Components/global.css'
 import './App.css';
 
 
-class App extends Component{
+class App extends Component {
 
     componentDidMount() {
         document.title = "Instagram Clone"
@@ -19,8 +20,10 @@ class App extends Component{
             <div>
                 <Header/>
                 <Container>
+
                     <Row id="posts">
                         <Col lg={8}>
+                            <Stories/>
                             <Posts/>
                         </Col>
                         <Col>

@@ -2,19 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90dc3f76-cd88-4709-9c44-4383674024d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/stories/stories.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/stories/stories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/stories/story.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profiles/2/post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profiles/2/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profiles/3/post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profiles/3/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profiles/4/post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profiles/4/profile.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/header/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/search_input/search_input.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side_bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_suggestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side_suggestion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/side_suggestions/side_user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/side_suggestions/side_user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/user_post/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/user_post/posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/user_post/user_post.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/user_post/user_post.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/user_post/user_post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/user_post/user_post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/profiles/1/profile.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +103,8 @@
       <workItem from="1611082978332" duration="4258000" />
       <workItem from="1611099792774" duration="13937000" />
       <workItem from="1611116136913" duration="106000" />
-      <workItem from="1611161620037" duration="14288000" />
+      <workItem from="1611161620037" duration="15276000" />
+      <workItem from="1611194457310" duration="7944000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,6 @@
-@font-face {
-    font-family: username;
-    src: url('../../assets/fonts/Poppins-SemiBold.ttf');
-}
-
 .post{
     margin-bottom: 60px;
 }
-
 
 .username{
     font-size: 13px;
@@ -23,11 +17,6 @@
     object-fit: cover;
 }
 
-.border-gradient {
-    background-image: -webkit-linear-gradient(right top, #D02C86, #F99B4A);
-    border-radius: 400px;
-    padding: 2px;
-}
 
 .settings{
     color: #6c757d;

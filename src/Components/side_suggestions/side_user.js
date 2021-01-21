@@ -11,10 +11,10 @@ class SideUser extends Component {
     render() {
         return (
             <Row>
-                <Image src={this.props.img} className="side-profile-img" roundedCircle/>
+                <Image src={this.props.img} className="side-profile-img-user" roundedCircle/>
                 <Col>
-                    <p className="p-item">{this.props.username}</p>
-                    <p className="text-muted p-item">{this.props.name}</p>
+                    <p className="username-side">{this.props.username}</p>
+                    <p className="text-muted sub-title-user">{this.props.name}</p>
                 </Col>
                 <a className="link-item" href="https://www.google.com">Switch</a>
             </Row>

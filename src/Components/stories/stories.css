@@ -1,0 +1,24 @@
+.story{
+    border-radius: 400px;
+    height: 55px;
+    width: 55px;
+    border: 2px solid white;
+    object-fit: cover;
+}
+
+
+.story-text{
+    font-size: 12px;
+    margin: auto;
+    text-align: center;
+}
+
+#stories{
+    margin-bottom: 25px;
+    padding: 10px;
+}
+
+.arrow{
+    size: 25px;
+    color: black;
+}

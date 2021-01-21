@@ -19,7 +19,7 @@ class UserPost extends Component {
             <Card className="post">
                 <Container>
                     <Row className="d-flex header">
-                        <div className="border-gradient">
+                        <div className={this.props.story ? "border-gradient" : null}>
                             <Image src={this.props.profileImg} className="post-profile-img"/>
                         </div>
 

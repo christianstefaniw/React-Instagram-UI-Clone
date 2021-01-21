@@ -1,3 +1,14 @@
 .container {
     max-width: 1000px !important;
 }
+
+@font-face {
+    font-family: username;
+    src: url('../assets/fonts/Poppins-SemiBold.ttf');
+}
+
+.border-gradient {
+    background-image: -webkit-linear-gradient(right top, #D02C86, #F99B4A);
+    border-radius: 400px;
+    padding: 2px;
+}

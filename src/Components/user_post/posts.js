@@ -13,10 +13,10 @@ class Posts extends Component {
     render() {
         return (
             <div>
-                <UserPost profileImg={profile} username="Christian.601" img={post} caption="Had an awesome day at the beach!" liked={true}/>
-                <UserPost profileImg={profile} username="Christian.601" img={post} caption="Had an awesome day at the beach!" liked={false}/>
-                <UserPost profileImg={profile} username="Christian.601" img={post} caption="Had an awesome day at the beach!" liked={true}/>
-                <UserPost profileImg={profile} username="Christian.601" img={post} caption="Had an awesome day at the beach!" liked={false}/>
+                <UserPost profileImg={profile} username="_christian.0" story={false} img={post} caption="Had an awesome day at the beach!" liked={true}/>
+                <UserPost profileImg={profile} username="_christian.0" story={true} img={post} caption="Had an awesome day at the beach!" liked={false}/>
+                <UserPost profileImg={profile} username="_christian.0" story={false} img={post} caption="Had an awesome day at the beach!" liked={true}/>
+                <UserPost profileImg={profile} username="_christian.0" story={true} img={post} caption="Had an awesome day at the beach!" liked={false}/>
             </div>
         )
     }
