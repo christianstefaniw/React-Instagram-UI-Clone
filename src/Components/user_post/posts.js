@@ -9,7 +9,6 @@ import profileImg2 from '../../assets/profiles/2/profile.jpg'
 import profileImg3 from '../../assets/profiles/3/profile.png'
 import profileImg4 from '../../assets/profiles/4/profile.jpeg'
 import UserPost from "./user_post";
-import profile from '../../assets/profiles/1/profile.png'
 
 
 class Posts extends Component {
