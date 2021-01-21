@@ -1,4 +1,4 @@
-# Instagram Clone - Work in Progress
+# Instagram UI Clone - Work in Progress
 
 ![current state](https://raw.githubusercontent.com/ChristianStefaniw/Instagram-Clone/master/imgs/current.png)
 #### Current state
